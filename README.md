@@ -27,3 +27,6 @@ Este proyecto es un formulario de contacto simple y funcional, ideal para practi
 ```bash
 git clone https://github.com/lucasdanielgonzalez/Mi_formulario.git
 
+👤 Autor
+Lucas Daniel González
+
