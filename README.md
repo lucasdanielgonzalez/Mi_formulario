@@ -30,3 +30,7 @@ git clone https://github.com/lucasdanielgonzalez/Mi_formulario.git
 👤 Autor
 Lucas Daniel González
 
+📧 lucadaniengonzalez@gmail.com
+🌐 https://github.com/lucasdanielgonzalez
+
+
